@@ -1,4 +1,4 @@
-# PengalamanBelajar
+# Pengalaman Belajar Java
 Repository ini Berisikan Pengalaman Belajarku di Dicoding
 
 **14 Juni 2021**  
